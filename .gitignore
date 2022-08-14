@@ -1,0 +1,16 @@
+*.csv
+*.gif
+*.pack
+*.pyc
+*.orig
+*.parquet
+*.tiff
+*.zip
+*.png
+*.mp4
+*.jpg
+*.pdf
+*.mea
+*.opju
+*.xlsx
+*.bak
